@@ -1,5 +1,7 @@
 # dds-drifttuner
 
+#Discord for more releases and support [dDStudio](https://discord.gg/P9ZzdzYaqm)
+
 #Instructions
 Create the table in your datablase player_vehicles table as seen below with default value '0'.  Deploy 
 the inventory item to your data/items.lua table in ox_inventory to apply a drift tuner to a vehicle.
