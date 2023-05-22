@@ -1,15 +1,15 @@
 # dds-drifttuner
 
-#Discord for more releases and support [dDStudio] https://discord.gg/P9ZzdzYaqm
+# Discord for more releases and support [dDStudio] https://discord.gg/P9ZzdzYaqm
 
-#Instructions
+# Instructions
 Create the table in your datablase player_vehicles table as seen below with default value '0'.  Deploy 
 the inventory item to your data/items.lua table in ox_inventory to apply a drift tuner to a vehicle.
 
-#Config
+# Config
 Configure your notifications, and selected vehicles to receive drift tune.
 
-#Test Drift
+# Test Drift
 Admins can use the command /testdrift to apply drift tune to any vehicle with or without drift tuner value in DB.
 
 # SQL
