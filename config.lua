@@ -9,3 +9,13 @@ config.vehicleModelWhitelist = {
     'slamvan3',
     'specter2'
 }
+
+function driftalerts(text, type)
+    if config.alerttype == 'ox' then
+        lib.notify({title = text, type = type}) 
+    else
+        --Insert Custom Notification String
+        exports['okokNotify']:Alert("Vehicle Tuner", text, 5000, type)
+        --Insert Custom Notification String
+    end
+end

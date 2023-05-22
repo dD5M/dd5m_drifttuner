@@ -189,16 +189,6 @@ function IsVehicleModelWhitelisted(vehicleModel)
 	return false
 end
 
-function driftalerts(text, type)
-    if config.alerttype == 'ox' then
-        lib.notify({title = text, type = type}) 
-    else
-        --Insert Custom Notification String
-        exports['okokNotify']:Alert("Vehicle Tuner", text, 5000, type)
-        --Insert Custom Notification String
-    end
-end
-
 --Drift/Performance Mod vehicle check
 RegisterNetEvent('dds-drifttuner:TuneStatus', function()
     local ped = PlayerPedId()
