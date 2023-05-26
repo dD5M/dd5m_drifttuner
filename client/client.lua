@@ -37,7 +37,7 @@ Citizen.CreateThread( function()
                 lib.addRadialItem({
                     id = 'driftmode',
                     label = 'Toggle Drift',
-                    icon = {'fas', 'steering-wheel'},
+                    icon = 'triangle-exclamation',
                     onSelect = function()
                         ExecuteCommand("toggledrift")
                     end,
