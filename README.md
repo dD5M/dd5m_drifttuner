@@ -1,7 +1,7 @@
 # dds-drifttuner
 
 # Showcase
-https://www.youtube.com/embed/6b91vCKkX6Y
+[https://www.youtube.com/6b91vCKkX6Y](https://www.youtube.com/watch?v=6b91vCKkX6Y)
 
 # Discord for more releases and support [dDStudio] https://discord.gg/P9ZzdzYaqm
 
