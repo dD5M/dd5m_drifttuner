@@ -1,6 +1,6 @@
 # dds-drifttuner
 
-https://youtu.be/6b91vCKkX6Y
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6b91vCKkX6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Discord for more releases and support [dDStudio] https://discord.gg/P9ZzdzYaqm
 
